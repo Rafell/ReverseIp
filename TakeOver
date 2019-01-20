@@ -1,0 +1,78 @@
+#!system/bin/bash
+#Author = Mr.F3eLL
+#Contact = 081316826548
+
+echo "Sabar Kontol!!!!! "|lolcat
+sleep 3
+clear
+echo " Sabar Kontol!!!!! "|lolcat
+sleep 2
+clear
+echo $blue"Lu Tau Kontol"
+sleep 1
+sleep 2
+sleep 3
+clear
+echo $blue"Gua Ganteng Tq"
+sleep 1
+sleep 2
+sleep 3
+clear
+echo $blue"Please No Recode :)"
+sleep 1
+sleep 2
+sleep 3
+clear
+echo $blue"Gua Cape Goblog Mikir Pake Otak :)"
+sleep 1
+sleep 2
+sleep 3
+clear
+echo $blue"Gua Wibu Bukan Hacker Tq "
+sleep 1
+sleep 2
+sleep 3
+clear
+echo $blue"Habis Mangan Ora Usdud Paru-Paru Ora Smile "
+sleep 1
+sleep 2
+sleep 3
+clear
+echo $white"Sabar Mek "
+sleep 1
+sleep 2
+sleep 3
+clear
+echo $white"Sabar Bentar Lagi Babi!!!"
+sleep 1
+sleep 2
+sleep 3
+clear
+echo $white"Selamat Datang Hacker Jangan Lupa Coli Yaah "
+sleep 1
+sleep 2
+sleep 3
+sleep 4
+sleep 5
+clear
+figlet " Done Mek!! "|lolcat
+sleep 1
+clear
+figlet -f slant Mr.F3eLL Tamvan |lolcat
+echo "_______________________________________________"|lolcat
+echo "Author  : Mr.F3eLL"|lolcat
+echo "Contact : Mr.F3eLL1603@gmail.com | Facebook : Rafell "|lolcat
+echo "Team : BlackHat Hacker Indonesia | Indonesia Hacker Rulez | Jabar Cyber Army "|lolcat
+echo "_______________________________________________"|lolcat
+
+sleep 1
+
+pkg install curl
+figlet -f slant Ip Lookup |lolcat
+echo "Masukin Domain Target Kalian Mek "|lolcat
+echo " Status : Please No Recode Gua Cape Goblog Mikir Pake Otak :) "|lolcat
+echo "Example : github.io"|lolcat
+echo "Masukin Domain Target Kalian Mek = "|lolcat
+read web
+curl https://api.hackertarget.com/reverseiplookup/?q=$web
+echo
